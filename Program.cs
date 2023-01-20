@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.Serialization.Formatters.Binary;
 
-Discionario fisk = new Discionario();
+Dicionario fisk = new Dicionario();
 
 if (File.Exists("dictionary.bin"))
 {

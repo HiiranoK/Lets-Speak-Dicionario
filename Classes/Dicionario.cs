@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lets_Speak_Discionario.Classes
+namespace Lets_Speak_Dicionario.Classes
 {
-    class Discionario
+    class Dicionario
     {
         private Dictionary<string, string> _termo;
 
@@ -22,7 +22,7 @@ namespace Lets_Speak_Discionario.Classes
             }
         }
 
-        public Discionario()
+        public Dicionario()
         {
             _termo = new Dictionary<string, string>();
         }
